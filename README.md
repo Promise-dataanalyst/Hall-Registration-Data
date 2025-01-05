@@ -1,10 +1,21 @@
 ## Hall-Registration-Data
 
 
-[Hall Registration Report.pdf](https://github.com/user-attachments/files/18310659/Hall.Registration.Report.pdf)
+![Hall Registration Report_page-0001](https://github.com/user-attachments/assets/88b8bb07-e26e-4648-a17e-f8df6b103fd0)
 
 
-### The report gives an overview of student registrations for 2024, breaking down details by state, gender, age and course preferences
+![Hall Registration Report_page-0002](https://github.com/user-attachments/assets/26c22e0a-112a-41ac-8320-a1fa8d7fb0c7)
+
+
+![Hall Registration Report_page-0003](https://github.com/user-attachments/assets/ca8cd535-d7d1-42a7-ab99-859b319935f1)
+
+
+![Hall Registration Report_page-0005](https://github.com/user-attachments/assets/c1d27719-28fe-4b41-80d9-8547d49d7364)
+
+
+
+
+### The above visuals report gives an overview of student registrations for 2024, breaking down details by state, gender, age and course preferences
 
 ### By State:
 Most students are from Ogun State, while a few states have only one or two registered students.
