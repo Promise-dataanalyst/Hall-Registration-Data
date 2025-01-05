@@ -18,13 +18,13 @@
 ### The above visuals report gives an overview of student registrations for 2024, breaking down details by state, gender, age and course preferences
 
 ### By Total number:
-The total number of students addmited in 2024 is 3147
+The total number of students that were addmitted in 2024 are 3147
 
 ### By State:
 Most students are from Ogun State.
 
 ### Gender Ratio: 
-It's pretty balanced, with slightly more male students (51.64%) than female students (48.36%).
+Male gender has a higher percentage of male students (51.64%) compared to female students (48.36%).
 
  ### Age Group:
  The majority of students are 17 years old, making up the largest age group.
